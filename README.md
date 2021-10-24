@@ -1,1 +1,1 @@
-permalink: /Home.html
+permalink: /index.html
