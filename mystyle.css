@@ -1,0 +1,110 @@
+body {
+  background-color: lightpink;
+}
+
+.column{
+  display:block;
+}
+
+.row{
+  display:flex;
+  margin-left: 7%;
+}
+
+.teamPic{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 4%;
+  width: 100%
+}
+
+.teamSrcPic{
+  border-radius: 50%;
+}
+
+.teamPic2{
+  display: inline-block;
+}
+
+h1 {
+  color: hotpink;
+  text-align:center;
+  font-family: Fantasy, sans-serif;
+  font-size: 60px;
+}
+
+h2.about{
+  color: white;
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;									  padding-top: 2%;								
+}
+
+h2.team{
+  color: white;
+  text-align: center;
+  font-size: 40px;									   padding-top: 2%;									
+}
+
+h2.contact{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;									  padding-top: 2%;								
+}
+
+h2.home{
+  color: white;
+  text-align: center;
+  font-size: 40px;									   padding-top: 2%;
+  margin-left: 7%;
+  margin-right: 7%;
+  font-family: Fantasy, sans-serif;	
+  font-weight: normal;								
+}
+
+.topnav{
+  text-align:center;
+}
+
+.topnav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 3.7%;
+  margin-right: 3.7%;
+  padding: 1.2% 1.2%;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: hotpink;
+  color: white;
+}
+
+.aboutText{
+  color: white;
+  text-align:center;
+  font-size: 30px;
+  margin-left: 10%;
+  font-family: Georgia, serif;
+}
+
+ul.contact{
+  list-style-type: circle;
+  margin-left: 350px;
+  margin-right:40px;
+  padding-top: 20px;
+  color: white;
+  font-size: 30px;
+  font-family: Georgia, serif;
+}
+
+dl.team{
+  color:white;
+  font-size: 30px;
+  margin-left: 300px;
+  margin-right:300px;
+  font-family: Georgia, serif;
+}
