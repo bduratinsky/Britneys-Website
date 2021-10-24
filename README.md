@@ -1,2 +1,1 @@
-# Britneys-Website
-Sweet Shop Website
+permalink: /Home.html
